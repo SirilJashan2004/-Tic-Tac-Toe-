@@ -1,0 +1,12 @@
+D:\Root IT Task\TicToeTac\TicToeTac\bin\Debug\TicToeTac.exe.config
+D:\Root IT Task\TicToeTac\TicToeTac\bin\Debug\TicToeTac.exe
+D:\Root IT Task\TicToeTac\TicToeTac\bin\Debug\TicToeTac.pdb
+D:\Root IT Task\TicToeTac\TicToeTac\obj\Debug\TicToeTac.exe
+D:\Root IT Task\TicToeTac\TicToeTac\obj\Debug\TicToeTac.pdb
+D:\Root IT Task\TicToeTac\TicToeTac\obj\Debug\TicToeTac.csprojResolveAssemblyReference.cache
+D:\Problem_Solving_in_C#\TicToeTac\TicToeTac\bin\Debug\TicToeTac.exe.config
+D:\Problem_Solving_in_C#\TicToeTac\TicToeTac\obj\Debug\TicToeTac.exe
+D:\Problem_Solving_in_C#\TicToeTac\TicToeTac\obj\Debug\TicToeTac.pdb
+D:\Problem_Solving_in_C#\TicToeTac\TicToeTac\bin\Debug\TicToeTac.exe
+D:\Problem_Solving_in_C#\TicToeTac\TicToeTac\bin\Debug\TicToeTac.pdb
+D:\Problem_Solving_in_C#\TicToeTac\TicToeTac\obj\Debug\TicToeTac.csprojResolveAssemblyReference.cache
